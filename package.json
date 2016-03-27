@@ -1,18 +1,17 @@
 {
-  "name": "multiverse-syntax",
+  "name": "language-multiverse",
   "version": "1.0.0",
-  "description": "Multiverse language support in Atom",
+  "description": "Multiverse Language Package",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "theme": "syntax",
-  "homepage": "http://github.com/drewctaylor/multiverse-syntax",
+  "homepage": "http://github.com/drewctaylor/language-multiverse",
   "repository": {
     "type": "git",
-    "url": "https://github.com/drewctaylor/multiverse-syntax.git"
+    "url": "https://github.com/drewctaylor/language-multiverse.git"
   },
   "bugs": {
-    "url": "https://github.com/drewctaylor/multiverse-syntax/issues"
+    "url": "https://github.com/drewctaylor/language-multiverse/issues"
   }
 }
